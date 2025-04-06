@@ -2,6 +2,10 @@
 wait for me back to fix this bug
 */
 
+// TO DO
+// work successfully
+// fix the bug
+
 import React, { useEffect, useRef } from 'react';
 import { useGraph } from '@react-three/fiber';
 import { useAnimations, useFBX, useGLTF } from '@react-three/drei';
