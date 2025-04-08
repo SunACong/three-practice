@@ -1,2 +1,5 @@
 # three-practice
-Thanks to Adrian Hajdin for the tutorial, this repository is a review of the YouTube video tutorial "Build &amp; Deploy an Amazing 3D Portfolio with React.js &amp; Three.js |". A reproduction of Beginner Three.js Tutorial
+
+感谢 Adrian 的教程，这个代码库是对 YouTube 视频教程《使用 React.js 和 Three.js 构建并部署一个超棒的 3D 作品集》的回顾。我希望整理这个项目并打造一个博客教程系列。如果你喜欢这个项目请帮我点个⭐吧！！！
+
+如果你已经按照我的博客看到这里，抱歉，由于个人原因ReadMe暂时还未更新，我将尽快维护这个文件，谢谢！
