@@ -1,3 +1,17 @@
+<div align="center">
+  <br />
+    <a href="https://youtu.be/kt0FrkQgw8w" target="_blank">
+      <img src="https://github.com/user-attachments/assets/2afc2dc3-f840-4d98-9378-f34acd7df173" alt="Project Banner">
+    </a>
+  <br />
+
+  <h3 align="center">3D 开发者主页</h3>
+
+   <div align="center">
+      本仓库的教程来自 <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. 订阅JM频道，带你走进JS大师的世界!!
+    </div>
+</div>
+
 ## 📋 目录
 - [简介](#-简介)
 - [技术栈](#-技术栈)
@@ -39,6 +53,11 @@
 - **🖼️ 作品集展示** - 展示项目和工作经验
 
 ## 🚀 快速开始
+
+确定你的电脑安装下面这些环境：
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
 
 克隆项目并安装依赖：
 
