@@ -116,6 +116,20 @@ export default {
 </details>
 
 <details>
+<summary><code>postcss.config.js</code></summary>
+
+```js
+export default {
+    plugins: {
+      tailwindcss: {},
+      autoprefixer: {},
+    },
+  }
+```
+
+</details>
+
+<details>
 <summary><code>index.css</code></summary>
 
 ```css
